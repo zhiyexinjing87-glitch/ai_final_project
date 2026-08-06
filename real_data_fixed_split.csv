@@ -1,0 +1,2 @@
+train_start_date,train_end_date,test_start_date,test_end_date,train_rows,test_rows,train_races,test_races,train_positive_rate,test_positive_rate,race_id_overlap,train_before_test
+2024-01-06,2025-11-23,2025-11-24,2026-07-12,89446,30827,6573,2202,0.22066945419582765,0.2145521782852694,0,True

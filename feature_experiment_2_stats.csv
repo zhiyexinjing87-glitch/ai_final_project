@@ -1,0 +1,3 @@
+version,feature,min,max,mean,median,missing_count,missing_rate,missing_rate_improvement_points
+Existing,distance_top3_rate,0.0,1.0,0.336437968552145,0.25,52731,0.43842757726172954,0.0
+Experimental,distance_band_top3_rate,0.0,1.0,0.3262967451401131,0.25,46672,0.3880505184039643,0.05037705885776522
