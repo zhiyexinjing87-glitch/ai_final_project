@@ -1,5 +1,0 @@
-feature,kind,min,max,mean,median,missing_count,unique_count,inf_count,nonpositive_count
-racecourse,categorical,,,,,0,10,0,0
-race_class_name,categorical,,,,,0,1246,0,0
-field_size,numeric,5.0,18.0,14.433763188745603,15.0,0,14,0,0
-relative_horse_number,numeric,0.05555555555555555,1.0,0.5362163824797546,0.5384615384615384,0,102,0,0
